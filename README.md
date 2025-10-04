@@ -71,8 +71,8 @@
 
 ---
 
-### ☕ Support Me
+<!-- ### ☕ Support Me
 <p align="center"><a href="https://buymeacoffee.com/pasan3251" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"></a></p>
 
----
+-->
 
