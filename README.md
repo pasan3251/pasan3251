@@ -44,17 +44,18 @@
 </p>
 
 <p align="center">
-  <table>
+  <!-- <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=pasan3251&show_icons=true&theme=tokyonight" alt="Pasan's GitHub stats" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasan3251&theme=tokyonight" alt="GitHub Streak" /></td>
     </tr>
-  </table>
+  </table> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasan3251&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan3251&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+</p> -->
 
 
 
